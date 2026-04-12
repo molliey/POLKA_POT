@@ -1,0 +1,7 @@
+{
+  "name": "Polka Dot Motion",
+  "description": "A playful, interactive canvas where colorful dots react to your hand movements detected via camera.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

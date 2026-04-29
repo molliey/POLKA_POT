@@ -1,3 +1,6 @@
+
+   <img width="1347" height="988" alt="Screenshot 2026-04-29 at 18 53 44" src="https://github.com/user-attachments/assets/2c7b5f84-8d0f-4526-8ead-b87333a2e50c" />
+
 # Interactive Motion System
 
 An interactive, physics-driven visual experience that transforms user input (mouse or hand gestures) into real-time motion feedback.
@@ -42,5 +45,4 @@ Instead of buttons or static layouts, users directly manipulate a dynamic visual
 3. Run the app:
    `npm run dev`
 
-   <img width="1347" height="988" alt="Screenshot 2026-04-29 at 18 53 44" src="https://github.com/user-attachments/assets/2c7b5f84-8d0f-4526-8ead-b87333a2e50c" />
 
